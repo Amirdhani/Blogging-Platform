@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@import 'react-quill/dist/quill.snow.css';
+
+.input-field {
+  @apply w-full px-3 py-2 border rounded-md focus:outline-none focus:ring focus:ring-purple-300;
+}
+
+.card-body {
+  @apply bg-purple-100
+}
