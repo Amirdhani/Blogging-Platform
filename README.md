@@ -46,9 +46,13 @@ Create a new Web Service
 
 Add Environment Variables:
 MONGO_URI=
+
 JWT_SECRET=
+
 CLOUDINARY_CLOUD_NAME=
+
 CLOUDINARY_API_KEY=
+
 CLOUDINARY_API_SECRET=
 
 
