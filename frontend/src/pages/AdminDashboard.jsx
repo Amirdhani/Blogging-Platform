@@ -44,7 +44,7 @@ const AdminDashboard = () => {
     }
   };
 
-  // Stats Cards
+  // Stats Cards...
   const StatCard = ({ icon: Icon, value, label, color }) => (
     <div className="flex items-center bg-white shadow rounded-lg p-5">
       <div className={`p-3 rounded-full mr-4 ${color}`}>
